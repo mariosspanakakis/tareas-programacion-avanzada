@@ -1,0 +1,4 @@
+# ignorar los datos del usuario
+partidas/
+*.txt
+Enunciado.pdf

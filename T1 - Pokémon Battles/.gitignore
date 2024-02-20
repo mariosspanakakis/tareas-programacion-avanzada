@@ -1,0 +1,12 @@
+virtualenv/
+
+Enunciado.pdf
+entrenadores.csv
+evoluciones.csv
+objetos.csv
+programones.csv
+
+.vscode
+__pycache__
+
+tests.py

@@ -1,0 +1,20 @@
+{
+    "HOST": "127.0.0.1",
+    "PORT": 8080,
+    "WINDOW_W_S": 400,
+    "WINDOW_H_S": 300,
+    "WINDOW_W_L": 1200,
+    "WINDOW_H_L": 900,
+    "BARAJA_PANTALLA": 5,
+    "N_ROWS_VICTORY_CARDS": 6,
+    "N_COLS_VICTORY_CARDS": 2,
+    "CARD_WIDTH": 180,
+    "CARD_HEIGHT": 288,
+    "SIZE_VICTORY_CARD": 60,
+    "PATH_CARDS": "./sprites/cartas/",
+    "PATH_VICTORY_CARDS": "./sprites/elementos/fichas/",
+    "STYLE_CARD_NORMAL": "",
+    "STYLE_CARD_EMPTY": "border-style: solid; border-width: 2px; border-radius: 16px; border-color: gray;",
+    "STYLE_CARD_SELECTED": "border-style: solid; border-width: 10px; border-radius: 20px; border-color: red;",
+    "STYLE_CHAT_MESSAGE": "background-color: rgba(0, 150, 150, 40); border-style: solid; border-width: 4px; border-radius: 6px; border-color: white; padding: 8px"
+}
