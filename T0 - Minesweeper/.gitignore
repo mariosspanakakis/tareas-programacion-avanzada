@@ -2,3 +2,4 @@
 partidas/
 *.txt
 Enunciado.pdf
+__pycache__
